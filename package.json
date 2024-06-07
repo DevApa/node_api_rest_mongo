@@ -4,7 +4,7 @@
   "description": "api node crud basic",
   "main": "src/app.js",
   "scripts": {
-    "start": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js",
     "dev": "nodemon src/app.js"
   },
   "author": "caparicio",
